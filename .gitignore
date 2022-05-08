@@ -3,3 +3,9 @@
 ################################################################################
 
 /MartianRobots/MartianRobots/bin/Debug/net5.0
+/MartianRobots/MartianRobots/obj
+/MartianRobots/.vs/MartianRobots/v17/.suo
+/MartianRobots/.vs/MartianRobots/DesignTimeBuild/.dtbcache.v2
+/MartianRobots/MartianRobots.Tests/obj
+/MartianRobots/MartianRobots.Tests/bin/Debug/net5.0
+/MartianRobots/.vs/MartianRobots/v17
